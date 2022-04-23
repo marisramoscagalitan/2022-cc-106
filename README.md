@@ -5,3 +5,5 @@ https://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentic
 simple api
 https://documenter.getpostman.com/view/20379584/UVyvttQC
 
+BOILERPLATE API
+https://documenter.getpostman.com/view/20379584/UyrAFxCT
