@@ -6,4 +6,4 @@ simple api
 https://documenter.getpostman.com/view/20379584/UyrBjcE7
 
 BOILERPLATE API
-https://documenter.getpostman.com/view/20379584/UyrAFxCT
+https://documenter.getpostman.com/view/20379584/UyrDCaNs
